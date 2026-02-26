@@ -1,2 +1,10 @@
-# Project_-Adidas-Retail-Customer-Retention-Analytics.
-Developed an interactive Customer Retention Analytics Dashboard in Power BI using Adidas retail and e-commerce data. Consolidated customer demographics, purchase history, and loyalty metrics to enable dynamic segmentation of high-value, repeat, and churned customers, delivering actionable insights to improve retention and regional performance.
+<h1 align="center">Hi 👋, I'm Lucky Kumar</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Actionable Insights</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/lucky10124](https://github.com/lucky10124)
+
+- 📫 How to reach me **Lucky.workda@gmail.com**
+
+
+<p align="left">
+</p>
