@@ -1,0 +1,2 @@
+# Project_-Adidas-Retail-Customer-Retention-Analytics.
+Developed an interactive Customer Retention Analytics Dashboard in Power BI using Adidas retail and e-commerce data. Consolidated customer demographics, purchase history, and loyalty metrics to enable dynamic segmentation of high-value, repeat, and churned customers, delivering actionable insights to improve retention and regional performance.
